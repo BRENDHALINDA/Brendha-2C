@@ -1,0 +1,27 @@
+body {
+    background-color: #f5b7b7;
+    color: rgb(245, 243, 243);
+    }
+header {
+    background-color: #c57a7a;
+    color: white;
+}
+.cabecalho-imagem{
+    width: 20%;
+    }
+    .cabecalho {
+        background-color: #383D58;
+        color: white;
+        display:flex;
+    }
+    .cabecalho-lista-item{
+        display: inline-block;
+        margin: 0 16px;
+        justify-content: space-around;
+        padding: 24px 0;
+        }
+        body{
+            font-family:’Poppins’,sans-serif;
+            }
+    
+        
